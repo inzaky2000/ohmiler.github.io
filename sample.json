@@ -1,5 +1,4 @@
-[
-    {
+{
         "_id": "1",
         "first_name": "อุเซ็ง",
         "last_name": "สานิ",
@@ -44,8 +43,8 @@
         ],
         "images": "https://drive.google.com/open?id=1HduEWDd7_FUzJUnz2KJvw2sHwNpmdIbe",
         "email": ""
-        },
-        {
+},
+{
         "_id": "2",
         "first_name": "ฟัจรี",
         "last_name": "สะอิ",
@@ -90,5 +89,4 @@
         ],
         "images": "https://drive.google.com/open?id=1LyPfryLMs7gZMNFcJHKUplyH4FQdV1ea",
         "email": "fud@email.com"
-    }
-]
+}
