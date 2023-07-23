@@ -1,0 +1,94 @@
+[
+    {
+        "_id": "1",
+        "first_name": "อุเซ็ง",
+        "last_name": "สานิ",
+        "nickname": "เซ็ง",
+        "sex": "male",
+        "age": 20,
+        "date_of_birth": "17 กรกฎาคม 2546",
+        "height": 170,
+        "weight": 58,
+        "phone": [
+            {
+            "type": "mobile",
+            "number": "0610876829"
+            },
+            {
+            "type": "office",
+            "number": "073123456"
+            }
+        ],
+        "address": "47/4 ม.1 ต.ธารคีรี อ.สะบ้าย้อย จ.สงขลา",
+        "zipcode": "90210",
+        "education_level": [
+            {
+            "type": "ประถมศึกษา",
+            "school": ""
+            },
+            {
+            "type": "มัธยมศึกษา",
+            "school": ""
+            },
+            {
+            "type": "อื่น ๆ ",
+            "school": ""
+            }
+        ],
+        "history_job": [
+            {
+            "place": "ทำสวน",
+            "entry_year": "2022",
+            "end_year": "2023"
+            }
+        ],
+        "images": "https://drive.google.com/open?id=1HduEWDd7_FUzJUnz2KJvw2sHwNpmdIbe",
+        "email": ""
+        },
+        {
+        "_id": "2",
+        "first_name": "ฟัจรี",
+        "last_name": "สะอิ",
+        "nickname": "ฟัด",
+        "sex": "male",
+        "age": 23,
+        "date_of_birth": "2 พฤษภาคม 2543",
+        "height": 167,
+        "weight": 53,
+        "phone": [
+            {
+            "type": "mobile",
+            "number": "0840361673"
+            },
+            {
+            "type": "office",
+            "number": "073123456"
+            }
+        ],
+        "address": "21/3 จาหนัน ม.6 ต.พร่อน อ.เมืองยะลา จ.ยะลา",
+        "zipcode": "95160",
+        "education_level": [
+            {
+            "type": "ประถมศึกษา",
+            "school": ""
+            },
+            {
+            "type": "มัธยมศึกษา",
+            "school": ""
+            },
+            {
+            "type": "อื่น ๆ ",
+            "school": ""
+            }
+        ],
+        "history_job": [
+            {
+            "place": "บริษัท ไอ-เทล คอเปอเรชัน จำกัด",
+            "entry_year": "2022",
+            "end_year": "2023"
+            }
+        ],
+        "images": "https://drive.google.com/open?id=1LyPfryLMs7gZMNFcJHKUplyH4FQdV1ea",
+        "email": "fud@email.com"
+    }
+]
